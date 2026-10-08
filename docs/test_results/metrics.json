@@ -1,0 +1,107 @@
+{
+  "dataset": "合成数据，同一生成机制不同随机种子，不能代表真实网络泛化性能",
+  "train_seed": 2026,
+  "test_seed": 9088,
+  "test_samples": 800,
+  "train_samples": 2000,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "sklearn": "1.8.0",
+  "classification": {
+    "传输异常": {
+      "precision": 0.9937888198757764,
+      "recall": 1.0,
+      "f1-score": 0.9968847352024922,
+      "support": 160.0
+    },
+    "干扰风险": {
+      "precision": 0.9815950920245399,
+      "recall": 1.0,
+      "f1-score": 0.9907120743034056,
+      "support": 160.0
+    },
+    "正常": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 160.0
+    },
+    "覆盖不足": {
+      "precision": 1.0,
+      "recall": 0.99375,
+      "f1-score": 0.9968652037617555,
+      "support": 160.0
+    },
+    "负载拥塞": {
+      "precision": 1.0,
+      "recall": 0.98125,
+      "f1-score": 0.9905362776025236,
+      "support": 160.0
+    },
+    "accuracy": 0.995,
+    "macro avg": {
+      "precision": 0.9950767823800633,
+      "recall": 0.9949999999999999,
+      "f1-score": 0.9949996581740355,
+      "support": 800.0
+    },
+    "weighted avg": {
+      "precision": 0.9950767823800633,
+      "recall": 0.995,
+      "f1-score": 0.9949996581740354,
+      "support": 800.0
+    }
+  },
+  "threshold_baseline_accuracy": 0.9825,
+  "confusion_labels": [
+    "正常",
+    "覆盖不足",
+    "干扰风险",
+    "负载拥塞",
+    "传输异常"
+  ],
+  "confusion_matrix": [
+    [
+      160,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      159,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      160,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      157,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      160
+    ]
+  ],
+  "performance": {
+    "samples": 500,
+    "repeats": 8,
+    "median_ms": 22.89,
+    "p95_ms": 23.54
+  },
+  "llm_live_test": "未配置真实API密钥，未做真实服务联调；仅完成模拟响应及失败分支测试"
+}

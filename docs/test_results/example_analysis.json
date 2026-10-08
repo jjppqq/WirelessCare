@@ -1,0 +1,3604 @@
+{
+  "sha256": "45c7324f068d6de4f636ac54f29142e684e3aa97b4f662ff5f1215cc7edbeade",
+  "rows": [
+    {
+      "timestamp": "2026-09-25T18:00:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -92.02,
+      "sinr_db": 19.89,
+      "prb_pct": 50.79,
+      "drop_pct": 0.0,
+      "latency_ms": 11.62,
+      "throughput_mbps": 50.85,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.0732,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T18:05:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -77.98,
+      "sinr_db": 24.45,
+      "prb_pct": 46.81,
+      "drop_pct": 0.63,
+      "latency_ms": 16.37,
+      "throughput_mbps": 46.5,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.1018,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T18:10:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -81.66,
+      "sinr_db": 23.01,
+      "prb_pct": 40.68,
+      "drop_pct": 0.0,
+      "latency_ms": 21.55,
+      "throughput_mbps": 72.46,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.1004,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T18:15:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -90.34,
+      "sinr_db": 23.15,
+      "prb_pct": 63.65,
+      "drop_pct": 0.75,
+      "latency_ms": 20.76,
+      "throughput_mbps": 58.33,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.1082,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T18:20:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -81.31,
+      "sinr_db": 14.86,
+      "prb_pct": 54.58,
+      "drop_pct": 0.73,
+      "latency_ms": 20.47,
+      "throughput_mbps": 89.91,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.1049,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T18:25:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -88.37,
+      "sinr_db": 23.27,
+      "prb_pct": 49.29,
+      "drop_pct": 0.48,
+      "latency_ms": 24.42,
+      "throughput_mbps": 56.85,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.1262,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T18:30:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -87.3,
+      "sinr_db": 13.73,
+      "prb_pct": 42.86,
+      "drop_pct": 0.68,
+      "latency_ms": 24.2,
+      "throughput_mbps": 78.39,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.0945,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T18:35:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -80.26,
+      "sinr_db": 23.69,
+      "prb_pct": 19.79,
+      "drop_pct": 0.39,
+      "latency_ms": 14.9,
+      "throughput_mbps": 62.01,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.0952,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T18:40:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -83.88,
+      "sinr_db": 24.06,
+      "prb_pct": 35.28,
+      "drop_pct": 0.29,
+      "latency_ms": 7.6,
+      "throughput_mbps": 93.98,
+      "prediction": "正常",
+      "confidence": 0.99,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.0451,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T18:45:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -88.97,
+      "sinr_db": 25.28,
+      "prb_pct": 48.59,
+      "drop_pct": 0.31,
+      "latency_ms": 10.56,
+      "throughput_mbps": 57.51,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.0815,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T18:50:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -86.27,
+      "sinr_db": 20.07,
+      "prb_pct": 52.22,
+      "drop_pct": 0.13,
+      "latency_ms": 17.42,
+      "throughput_mbps": 63.74,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.124,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T18:55:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -77.68,
+      "sinr_db": 22.11,
+      "prb_pct": 42.58,
+      "drop_pct": 0.45,
+      "latency_ms": 12.82,
+      "throughput_mbps": 70.6,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.1099,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T19:00:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -101.49,
+      "sinr_db": 14.21,
+      "prb_pct": 28.47,
+      "drop_pct": 0.59,
+      "latency_ms": 22.04,
+      "throughput_mbps": 77.16,
+      "prediction": "正常",
+      "confidence": 0.98,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.0273,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T19:05:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -80.51,
+      "sinr_db": 17.24,
+      "prb_pct": 36.88,
+      "drop_pct": 0.19,
+      "latency_ms": 21.51,
+      "throughput_mbps": 45.88,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.1077,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T19:10:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -83.02,
+      "sinr_db": 30.09,
+      "prb_pct": 67.96,
+      "drop_pct": 0.39,
+      "latency_ms": 15.12,
+      "throughput_mbps": 76.11,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.0406,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T19:15:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -88.53,
+      "sinr_db": 18.29,
+      "prb_pct": 71.93,
+      "drop_pct": 0.23,
+      "latency_ms": 21.45,
+      "throughput_mbps": 65.73,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.0857,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T19:20:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -74.8,
+      "sinr_db": 21.42,
+      "prb_pct": 31.79,
+      "drop_pct": 0.84,
+      "latency_ms": 21.32,
+      "throughput_mbps": 51.15,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.0881,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T19:25:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -90.21,
+      "sinr_db": 12.57,
+      "prb_pct": 34.13,
+      "drop_pct": 0.49,
+      "latency_ms": 17.51,
+      "throughput_mbps": 52.79,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.0848,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T19:30:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -85.59,
+      "sinr_db": 18.24,
+      "prb_pct": 42.52,
+      "drop_pct": 0.65,
+      "latency_ms": 20.08,
+      "throughput_mbps": 55.29,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.1464,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T19:35:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -91.26,
+      "sinr_db": 21.11,
+      "prb_pct": 15.56,
+      "drop_pct": 0.55,
+      "latency_ms": 20.48,
+      "throughput_mbps": 0.0,
+      "prediction": "正常",
+      "confidence": 0.8133,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.0182,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T19:40:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -96.87,
+      "sinr_db": 18.8,
+      "prb_pct": 17.05,
+      "drop_pct": 0.65,
+      "latency_ms": 23.87,
+      "throughput_mbps": 70.23,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.0761,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T19:45:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -86.02,
+      "sinr_db": 21.0,
+      "prb_pct": 49.91,
+      "drop_pct": 0.62,
+      "latency_ms": 20.9,
+      "throughput_mbps": 82.09,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.1492,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T19:50:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -80.75,
+      "sinr_db": 17.6,
+      "prb_pct": 65.83,
+      "drop_pct": 0.07,
+      "latency_ms": 23.42,
+      "throughput_mbps": 54.69,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.074,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T19:55:00",
+      "cell_id": "CELL-1",
+      "rsrp_dbm": -82.1,
+      "sinr_db": 21.51,
+      "prb_pct": 53.64,
+      "drop_pct": 0.66,
+      "latency_ms": 25.11,
+      "throughput_mbps": 115.62,
+      "prediction": "正常",
+      "confidence": 1.0,
+      "diagnosis": "正常",
+      "needs_review": false,
+      "is_anomaly": false,
+      "anomaly_score": 0.0651,
+      "evidence": [],
+      "knowledge": []
+    },
+    {
+      "timestamp": "2026-09-25T18:00:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -119.23,
+      "sinr_db": -7.82,
+      "prb_pct": 71.79,
+      "drop_pct": 7.17,
+      "latency_ms": 49.23,
+      "throughput_mbps": 9.82,
+      "prediction": "覆盖不足",
+      "confidence": 0.9833,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.2038,
+      "evidence": [
+        "RSRP=-119.23dBm < -105dBm",
+        "掉线率=7.17% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:05:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -121.06,
+      "sinr_db": 1.83,
+      "prb_pct": 26.12,
+      "drop_pct": 6.61,
+      "latency_ms": 61.45,
+      "throughput_mbps": 14.57,
+      "prediction": "覆盖不足",
+      "confidence": 0.994,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1882,
+      "evidence": [
+        "RSRP=-121.06dBm < -105dBm",
+        "掉线率=6.61% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:10:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -118.54,
+      "sinr_db": 8.96,
+      "prb_pct": 83.17,
+      "drop_pct": 5.27,
+      "latency_ms": 48.04,
+      "throughput_mbps": 11.29,
+      "prediction": "覆盖不足",
+      "confidence": 0.8157,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.2093,
+      "evidence": [
+        "RSRP=-118.54dBm < -105dBm",
+        "掉线率=5.27% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:15:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -122.01,
+      "sinr_db": 2.47,
+      "prb_pct": 36.89,
+      "drop_pct": 6.13,
+      "latency_ms": 59.68,
+      "throughput_mbps": 17.49,
+      "prediction": "覆盖不足",
+      "confidence": 0.9911,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1797,
+      "evidence": [
+        "RSRP=-122.01dBm < -105dBm",
+        "掉线率=6.13% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:20:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -119.41,
+      "sinr_db": -4.95,
+      "prb_pct": 70.54,
+      "drop_pct": 8.28,
+      "latency_ms": 52.83,
+      "throughput_mbps": 12.38,
+      "prediction": "覆盖不足",
+      "confidence": 0.9725,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.2034,
+      "evidence": [
+        "RSRP=-119.41dBm < -105dBm",
+        "掉线率=8.28% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:25:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -99.87,
+      "sinr_db": 9.02,
+      "prb_pct": 37.24,
+      "drop_pct": 2.42,
+      "latency_ms": 58.17,
+      "throughput_mbps": 13.49,
+      "prediction": "覆盖不足",
+      "confidence": 0.3657,
+      "diagnosis": "待核实",
+      "needs_review": true,
+      "is_anomaly": true,
+      "anomaly_score": -0.1687,
+      "evidence": [
+        "掉线率=2.42% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K05",
+          "cause": "待核实",
+          "explanation": "现有指标无法区分所有根因，需要补充证据。",
+          "actions": [
+            "补充告警、邻区、用户数、丢包与现场测试。"
+          ],
+          "verification": "新增证据后重新分析。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:30:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -111.74,
+      "sinr_db": 5.44,
+      "prb_pct": 87.08,
+      "drop_pct": 4.52,
+      "latency_ms": 37.24,
+      "throughput_mbps": 10.62,
+      "prediction": "覆盖不足",
+      "confidence": 0.92,
+      "diagnosis": "多因素异常",
+      "needs_review": true,
+      "is_anomaly": true,
+      "anomaly_score": -0.2113,
+      "evidence": [
+        "RSRP=-111.74dBm < -105dBm",
+        "PRB=87.08% > 85%",
+        "掉线率=4.52% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        },
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:35:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -117.54,
+      "sinr_db": 1.32,
+      "prb_pct": 43.7,
+      "drop_pct": 6.14,
+      "latency_ms": 49.88,
+      "throughput_mbps": 15.61,
+      "prediction": "覆盖不足",
+      "confidence": 0.9957,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.182,
+      "evidence": [
+        "RSRP=-117.54dBm < -105dBm",
+        "掉线率=6.14% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:40:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -116.42,
+      "sinr_db": -6.35,
+      "prb_pct": 39.22,
+      "drop_pct": 5.2,
+      "latency_ms": 66.3,
+      "throughput_mbps": 8.43,
+      "prediction": "覆盖不足",
+      "confidence": 1.0,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1873,
+      "evidence": [
+        "RSRP=-116.42dBm < -105dBm",
+        "掉线率=5.20% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:45:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -106.88,
+      "sinr_db": -3.17,
+      "prb_pct": 28.11,
+      "drop_pct": 4.04,
+      "latency_ms": 79.57,
+      "throughput_mbps": 16.24,
+      "prediction": "覆盖不足",
+      "confidence": 0.9804,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1858,
+      "evidence": [
+        "RSRP=-106.88dBm < -105dBm",
+        "掉线率=4.04% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:50:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -114.29,
+      "sinr_db": 9.26,
+      "prb_pct": 20.96,
+      "drop_pct": 4.32,
+      "latency_ms": 61.05,
+      "throughput_mbps": 11.02,
+      "prediction": "覆盖不足",
+      "confidence": 0.9986,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1944,
+      "evidence": [
+        "RSRP=-114.29dBm < -105dBm",
+        "掉线率=4.32% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:55:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -126.23,
+      "sinr_db": 3.04,
+      "prb_pct": 57.17,
+      "drop_pct": 7.9,
+      "latency_ms": 69.52,
+      "throughput_mbps": 5.94,
+      "prediction": "覆盖不足",
+      "confidence": 0.99,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.18,
+      "evidence": [
+        "RSRP=-126.23dBm < -105dBm",
+        "掉线率=7.90% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:00:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -114.54,
+      "sinr_db": 2.72,
+      "prb_pct": 60.88,
+      "drop_pct": 3.89,
+      "latency_ms": 67.6,
+      "throughput_mbps": 12.81,
+      "prediction": "覆盖不足",
+      "confidence": 0.9957,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1827,
+      "evidence": [
+        "RSRP=-114.54dBm < -105dBm",
+        "掉线率=3.89% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:05:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -113.56,
+      "sinr_db": -8.55,
+      "prb_pct": 37.85,
+      "drop_pct": 6.79,
+      "latency_ms": 58.52,
+      "throughput_mbps": 19.97,
+      "prediction": "覆盖不足",
+      "confidence": 0.9808,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1759,
+      "evidence": [
+        "RSRP=-113.56dBm < -105dBm",
+        "掉线率=6.79% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:10:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -117.96,
+      "sinr_db": 5.61,
+      "prb_pct": 74.82,
+      "drop_pct": 8.43,
+      "latency_ms": 60.21,
+      "throughput_mbps": 18.76,
+      "prediction": "覆盖不足",
+      "confidence": 0.9764,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1942,
+      "evidence": [
+        "RSRP=-117.96dBm < -105dBm",
+        "掉线率=8.43% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:15:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -115.94,
+      "sinr_db": 7.81,
+      "prb_pct": 35.23,
+      "drop_pct": 3.78,
+      "latency_ms": 61.76,
+      "throughput_mbps": 7.54,
+      "prediction": "覆盖不足",
+      "confidence": 0.9986,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1888,
+      "evidence": [
+        "RSRP=-115.94dBm < -105dBm",
+        "掉线率=3.78% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:20:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -110.42,
+      "sinr_db": 2.3,
+      "prb_pct": 24.29,
+      "drop_pct": 5.41,
+      "latency_ms": 63.36,
+      "throughput_mbps": 16.11,
+      "prediction": "覆盖不足",
+      "confidence": 0.994,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1867,
+      "evidence": [
+        "RSRP=-110.42dBm < -105dBm",
+        "掉线率=5.41% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:25:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -120.72,
+      "sinr_db": -2.11,
+      "prb_pct": 39.03,
+      "drop_pct": 4.37,
+      "latency_ms": 41.83,
+      "throughput_mbps": 1.81,
+      "prediction": "覆盖不足",
+      "confidence": 0.9929,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1897,
+      "evidence": [
+        "RSRP=-120.72dBm < -105dBm",
+        "掉线率=4.37% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:30:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -122.23,
+      "sinr_db": 6.69,
+      "prb_pct": 43.81,
+      "drop_pct": 3.27,
+      "latency_ms": 22.18,
+      "throughput_mbps": 3.25,
+      "prediction": "覆盖不足",
+      "confidence": 0.9878,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1491,
+      "evidence": [
+        "RSRP=-122.23dBm < -105dBm",
+        "掉线率=3.27% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:35:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -115.08,
+      "sinr_db": 6.79,
+      "prb_pct": 77.59,
+      "drop_pct": 2.06,
+      "latency_ms": 47.76,
+      "throughput_mbps": 6.85,
+      "prediction": "覆盖不足",
+      "confidence": 0.9978,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.2058,
+      "evidence": [
+        "RSRP=-115.08dBm < -105dBm",
+        "掉线率=2.06% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:40:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -122.28,
+      "sinr_db": -1.67,
+      "prb_pct": 64.8,
+      "drop_pct": 3.89,
+      "latency_ms": 52.78,
+      "throughput_mbps": 27.78,
+      "prediction": "覆盖不足",
+      "confidence": 0.97,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1767,
+      "evidence": [
+        "RSRP=-122.28dBm < -105dBm",
+        "掉线率=3.89% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:45:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -106.91,
+      "sinr_db": 1.15,
+      "prb_pct": 16.05,
+      "drop_pct": 5.68,
+      "latency_ms": 58.9,
+      "throughput_mbps": 8.36,
+      "prediction": "覆盖不足",
+      "confidence": 0.994,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.2011,
+      "evidence": [
+        "RSRP=-106.91dBm < -105dBm",
+        "掉线率=5.68% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:50:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -104.91,
+      "sinr_db": 2.5,
+      "prb_pct": 36.0,
+      "drop_pct": 6.04,
+      "latency_ms": 72.06,
+      "throughput_mbps": 14.8,
+      "prediction": "覆盖不足",
+      "confidence": 0.994,
+      "diagnosis": "干扰风险",
+      "needs_review": true,
+      "is_anomaly": true,
+      "anomaly_score": -0.1862,
+      "evidence": [
+        "SINR=2.50dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=6.04% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:55:00",
+      "cell_id": "CELL-2",
+      "rsrp_dbm": -114.38,
+      "sinr_db": 0.57,
+      "prb_pct": 47.29,
+      "drop_pct": 1.34,
+      "latency_ms": 63.65,
+      "throughput_mbps": 10.05,
+      "prediction": "覆盖不足",
+      "confidence": 0.991,
+      "diagnosis": "覆盖不足",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.18,
+      "evidence": [
+        "RSRP=-114.38dBm < -105dBm"
+      ],
+      "knowledge": [
+        {
+          "id": "K01",
+          "cause": "覆盖不足",
+          "explanation": "弱接收功率可能与遮挡、覆盖边缘或天线配置有关。",
+          "actions": [
+            "先核查天线馈线与告警，再开展现场路测。",
+            "评估下倾角、覆盖补点或小区重选参数，变更前留存原配置。"
+          ],
+          "verification": "复测RSRP分布、掉线率和邻区干扰。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:00:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -87.45,
+      "sinr_db": 0.17,
+      "prb_pct": 51.24,
+      "drop_pct": 1.6,
+      "latency_ms": 52.35,
+      "throughput_mbps": 6.67,
+      "prediction": "干扰风险",
+      "confidence": 0.9799,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1543,
+      "evidence": [
+        "SINR=0.17dB < 5dB，RSRP未触发弱覆盖阈值"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:05:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -77.52,
+      "sinr_db": -1.63,
+      "prb_pct": 35.56,
+      "drop_pct": 4.07,
+      "latency_ms": 52.4,
+      "throughput_mbps": 9.71,
+      "prediction": "干扰风险",
+      "confidence": 0.9971,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1725,
+      "evidence": [
+        "SINR=-1.63dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=4.07% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:10:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -84.32,
+      "sinr_db": -2.11,
+      "prb_pct": 81.67,
+      "drop_pct": 4.2,
+      "latency_ms": 104.38,
+      "throughput_mbps": 22.46,
+      "prediction": "干扰风险",
+      "confidence": 0.93,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1748,
+      "evidence": [
+        "SINR=-2.11dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=4.20% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:15:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -84.51,
+      "sinr_db": -1.47,
+      "prb_pct": 63.23,
+      "drop_pct": 3.4,
+      "latency_ms": 38.22,
+      "throughput_mbps": 10.57,
+      "prediction": "干扰风险",
+      "confidence": 0.9571,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1617,
+      "evidence": [
+        "SINR=-1.47dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=3.40% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:20:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -70.11,
+      "sinr_db": -1.14,
+      "prb_pct": 29.24,
+      "drop_pct": 4.76,
+      "latency_ms": 79.84,
+      "throughput_mbps": 25.74,
+      "prediction": "干扰风险",
+      "confidence": 0.9983,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1659,
+      "evidence": [
+        "SINR=-1.14dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=4.76% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:25:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -76.69,
+      "sinr_db": -0.2,
+      "prb_pct": 25.26,
+      "drop_pct": 5.11,
+      "latency_ms": 64.25,
+      "throughput_mbps": 19.57,
+      "prediction": "干扰风险",
+      "confidence": 0.99,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1688,
+      "evidence": [
+        "SINR=-0.20dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=5.11% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:30:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -80.34,
+      "sinr_db": -1.82,
+      "prb_pct": 66.95,
+      "drop_pct": 5.17,
+      "latency_ms": 57.67,
+      "throughput_mbps": 5.53,
+      "prediction": "干扰风险",
+      "confidence": 0.9971,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1662,
+      "evidence": [
+        "SINR=-1.82dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=5.17% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:35:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -80.7,
+      "sinr_db": -5.2,
+      "prb_pct": 33.57,
+      "drop_pct": 4.86,
+      "latency_ms": 60.48,
+      "throughput_mbps": 10.89,
+      "prediction": "干扰风险",
+      "confidence": 1.0,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1635,
+      "evidence": [
+        "SINR=-5.20dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=4.86% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:40:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -74.94,
+      "sinr_db": -3.29,
+      "prb_pct": 37.06,
+      "drop_pct": 5.12,
+      "latency_ms": 60.4,
+      "throughput_mbps": 14.36,
+      "prediction": "干扰风险",
+      "confidence": 0.9996,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1694,
+      "evidence": [
+        "SINR=-3.29dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=5.12% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:45:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -80.93,
+      "sinr_db": -1.02,
+      "prb_pct": 40.63,
+      "drop_pct": 4.86,
+      "latency_ms": 72.71,
+      "throughput_mbps": 12.03,
+      "prediction": "干扰风险",
+      "confidence": 0.9971,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1609,
+      "evidence": [
+        "SINR=-1.02dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=4.86% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:50:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -91.58,
+      "sinr_db": -4.23,
+      "prb_pct": 95.32,
+      "drop_pct": 7.85,
+      "latency_ms": 35.85,
+      "throughput_mbps": 3.54,
+      "prediction": "干扰风险",
+      "confidence": 0.89,
+      "diagnosis": "多因素异常",
+      "needs_review": true,
+      "is_anomaly": true,
+      "anomaly_score": -0.1902,
+      "evidence": [
+        "SINR=-4.23dB < 5dB，RSRP未触发弱覆盖阈值",
+        "PRB=95.32% > 85%",
+        "掉线率=7.85% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        },
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:55:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -80.75,
+      "sinr_db": 1.72,
+      "prb_pct": 61.71,
+      "drop_pct": 3.32,
+      "latency_ms": 51.22,
+      "throughput_mbps": 5.7,
+      "prediction": "干扰风险",
+      "confidence": 0.9582,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1624,
+      "evidence": [
+        "SINR=1.72dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=3.32% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:00:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -84.18,
+      "sinr_db": 1.37,
+      "prb_pct": 36.61,
+      "drop_pct": 1.32,
+      "latency_ms": 49.77,
+      "throughput_mbps": 16.35,
+      "prediction": "干扰风险",
+      "confidence": 0.9766,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1378,
+      "evidence": [
+        "SINR=1.37dB < 5dB，RSRP未触发弱覆盖阈值"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:05:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -80.1,
+      "sinr_db": -2.61,
+      "prb_pct": 38.26,
+      "drop_pct": 6.48,
+      "latency_ms": 43.37,
+      "throughput_mbps": 15.28,
+      "prediction": "干扰风险",
+      "confidence": 0.985,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1568,
+      "evidence": [
+        "SINR=-2.61dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=6.48% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:10:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -85.0,
+      "sinr_db": -2.14,
+      "prb_pct": 29.03,
+      "drop_pct": 3.59,
+      "latency_ms": 60.4,
+      "throughput_mbps": 0.0,
+      "prediction": "干扰风险",
+      "confidence": 0.9871,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1603,
+      "evidence": [
+        "SINR=-2.14dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=3.59% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:15:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -79.15,
+      "sinr_db": -1.91,
+      "prb_pct": 42.23,
+      "drop_pct": 1.13,
+      "latency_ms": 70.25,
+      "throughput_mbps": 24.16,
+      "prediction": "干扰风险",
+      "confidence": 1.0,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1091,
+      "evidence": [
+        "SINR=-1.91dB < 5dB，RSRP未触发弱覆盖阈值"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:20:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -93.63,
+      "sinr_db": -3.3,
+      "prb_pct": 45.67,
+      "drop_pct": 4.78,
+      "latency_ms": 67.49,
+      "throughput_mbps": 10.2,
+      "prediction": "干扰风险",
+      "confidence": 1.0,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1636,
+      "evidence": [
+        "SINR=-3.30dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=4.78% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:25:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -85.46,
+      "sinr_db": -3.84,
+      "prb_pct": 37.55,
+      "drop_pct": 3.38,
+      "latency_ms": 68.32,
+      "throughput_mbps": 10.44,
+      "prediction": "干扰风险",
+      "confidence": 1.0,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1533,
+      "evidence": [
+        "SINR=-3.84dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=3.38% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:30:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -84.36,
+      "sinr_db": -9.83,
+      "prb_pct": 19.65,
+      "drop_pct": 2.87,
+      "latency_ms": 78.49,
+      "throughput_mbps": 19.04,
+      "prediction": "干扰风险",
+      "confidence": 0.9896,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1569,
+      "evidence": [
+        "SINR=-9.83dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=2.87% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:35:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -81.69,
+      "sinr_db": -0.98,
+      "prb_pct": 50.24,
+      "drop_pct": 4.48,
+      "latency_ms": 35.41,
+      "throughput_mbps": 19.87,
+      "prediction": "干扰风险",
+      "confidence": 1.0,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1393,
+      "evidence": [
+        "SINR=-0.98dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=4.48% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:40:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -81.7,
+      "sinr_db": -4.03,
+      "prb_pct": 27.78,
+      "drop_pct": 4.96,
+      "latency_ms": 68.84,
+      "throughput_mbps": 25.47,
+      "prediction": "干扰风险",
+      "confidence": 0.9969,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.149,
+      "evidence": [
+        "SINR=-4.03dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=4.96% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:45:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -94.29,
+      "sinr_db": -3.97,
+      "prb_pct": 63.87,
+      "drop_pct": 1.1,
+      "latency_ms": 66.54,
+      "throughput_mbps": 15.54,
+      "prediction": "干扰风险",
+      "confidence": 0.9796,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1368,
+      "evidence": [
+        "SINR=-3.97dB < 5dB，RSRP未触发弱覆盖阈值"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:50:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -77.39,
+      "sinr_db": 1.37,
+      "prb_pct": 49.79,
+      "drop_pct": 4.63,
+      "latency_ms": 70.35,
+      "throughput_mbps": 16.98,
+      "prediction": "干扰风险",
+      "confidence": 0.9943,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1625,
+      "evidence": [
+        "SINR=1.37dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=4.63% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:55:00",
+      "cell_id": "CELL-3",
+      "rsrp_dbm": -86.25,
+      "sinr_db": -3.28,
+      "prb_pct": 59.23,
+      "drop_pct": 5.32,
+      "latency_ms": 61.16,
+      "throughput_mbps": 11.37,
+      "prediction": "干扰风险",
+      "confidence": 1.0,
+      "diagnosis": "干扰风险",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1545,
+      "evidence": [
+        "SINR=-3.28dB < 5dB，RSRP未触发弱覆盖阈值",
+        "掉线率=5.32% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K02",
+          "cause": "干扰风险",
+          "explanation": "信号功率正常但SINR偏低时，应检查同频干扰和重叠覆盖。",
+          "actions": [
+            "检查频谱及邻区同频资源使用，排查外部干扰。",
+            "评估资源协调或天线调整，先进行小范围试验。"
+          ],
+          "verification": "复测SINR与吞吐，确认邻区指标没有恶化。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:00:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -99.24,
+      "sinr_db": 18.53,
+      "prb_pct": 87.36,
+      "drop_pct": 2.24,
+      "latency_ms": 106.05,
+      "throughput_mbps": 2.03,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1748,
+      "evidence": [
+        "PRB=87.36% > 85%",
+        "掉线率=2.24% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:05:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -96.19,
+      "sinr_db": 21.67,
+      "prb_pct": 89.59,
+      "drop_pct": 2.59,
+      "latency_ms": 149.14,
+      "throughput_mbps": 11.08,
+      "prediction": "负载拥塞",
+      "confidence": 0.66,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1684,
+      "evidence": [
+        "PRB=89.59% > 85%",
+        "掉线率=2.59% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:10:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -96.88,
+      "sinr_db": 13.93,
+      "prb_pct": 96.25,
+      "drop_pct": 4.06,
+      "latency_ms": 112.21,
+      "throughput_mbps": 5.54,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1868,
+      "evidence": [
+        "PRB=96.25% > 85%",
+        "掉线率=4.06% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:15:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -84.82,
+      "sinr_db": 19.97,
+      "prb_pct": 88.47,
+      "drop_pct": 3.39,
+      "latency_ms": 94.48,
+      "throughput_mbps": 9.66,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.157,
+      "evidence": [
+        "PRB=88.47% > 85%",
+        "掉线率=3.39% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:20:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -81.55,
+      "sinr_db": 16.55,
+      "prb_pct": 95.11,
+      "drop_pct": 2.82,
+      "latency_ms": 104.42,
+      "throughput_mbps": 13.7,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1639,
+      "evidence": [
+        "PRB=95.11% > 85%",
+        "掉线率=2.82% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:25:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -81.87,
+      "sinr_db": 6.42,
+      "prb_pct": 100.0,
+      "drop_pct": 2.65,
+      "latency_ms": 96.23,
+      "throughput_mbps": 3.65,
+      "prediction": "负载拥塞",
+      "confidence": 0.9,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1896,
+      "evidence": [
+        "PRB=100.00% > 85%",
+        "掉线率=2.65% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:30:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -90.34,
+      "sinr_db": 15.17,
+      "prb_pct": 86.95,
+      "drop_pct": 4.29,
+      "latency_ms": 93.77,
+      "throughput_mbps": 20.9,
+      "prediction": "负载拥塞",
+      "confidence": 0.7044,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.159,
+      "evidence": [
+        "PRB=86.95% > 85%",
+        "掉线率=4.29% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:35:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -75.28,
+      "sinr_db": 20.51,
+      "prb_pct": 100.0,
+      "drop_pct": 3.89,
+      "latency_ms": 81.98,
+      "throughput_mbps": 8.87,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1635,
+      "evidence": [
+        "PRB=100.00% > 85%",
+        "掉线率=3.89% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:40:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -91.48,
+      "sinr_db": 11.47,
+      "prb_pct": 94.17,
+      "drop_pct": 2.95,
+      "latency_ms": 89.45,
+      "throughput_mbps": 2.68,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1862,
+      "evidence": [
+        "PRB=94.17% > 85%",
+        "掉线率=2.95% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:45:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -88.31,
+      "sinr_db": 18.87,
+      "prb_pct": 95.16,
+      "drop_pct": 3.2,
+      "latency_ms": 96.0,
+      "throughput_mbps": 8.76,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1569,
+      "evidence": [
+        "PRB=95.16% > 85%",
+        "掉线率=3.20% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:50:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -77.13,
+      "sinr_db": 14.99,
+      "prb_pct": 94.91,
+      "drop_pct": 2.57,
+      "latency_ms": 101.96,
+      "throughput_mbps": 12.35,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1731,
+      "evidence": [
+        "PRB=94.91% > 85%",
+        "掉线率=2.57% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:55:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -87.81,
+      "sinr_db": 10.22,
+      "prb_pct": 95.82,
+      "drop_pct": 2.78,
+      "latency_ms": 107.57,
+      "throughput_mbps": 6.41,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1872,
+      "evidence": [
+        "PRB=95.82% > 85%",
+        "掉线率=2.78% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:00:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -94.8,
+      "sinr_db": 17.04,
+      "prb_pct": 89.14,
+      "drop_pct": 3.38,
+      "latency_ms": 86.84,
+      "throughput_mbps": 3.03,
+      "prediction": "负载拥塞",
+      "confidence": 0.99,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1654,
+      "evidence": [
+        "PRB=89.14% > 85%",
+        "掉线率=3.38% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:05:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -75.36,
+      "sinr_db": 19.59,
+      "prb_pct": 91.24,
+      "drop_pct": 4.07,
+      "latency_ms": 89.76,
+      "throughput_mbps": 12.78,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1646,
+      "evidence": [
+        "PRB=91.24% > 85%",
+        "掉线率=4.07% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:10:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -90.1,
+      "sinr_db": 16.14,
+      "prb_pct": 95.48,
+      "drop_pct": 2.43,
+      "latency_ms": 112.94,
+      "throughput_mbps": 10.54,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1679,
+      "evidence": [
+        "PRB=95.48% > 85%",
+        "掉线率=2.43% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:15:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -97.44,
+      "sinr_db": 19.08,
+      "prb_pct": 90.88,
+      "drop_pct": 1.26,
+      "latency_ms": 63.51,
+      "throughput_mbps": 4.73,
+      "prediction": "负载拥塞",
+      "confidence": 0.99,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1589,
+      "evidence": [
+        "PRB=90.88% > 85%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:20:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -87.63,
+      "sinr_db": 15.8,
+      "prb_pct": 93.21,
+      "drop_pct": 3.02,
+      "latency_ms": 80.57,
+      "throughput_mbps": 9.15,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1655,
+      "evidence": [
+        "PRB=93.21% > 85%",
+        "掉线率=3.02% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:25:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -92.57,
+      "sinr_db": 14.69,
+      "prb_pct": 95.3,
+      "drop_pct": 3.97,
+      "latency_ms": 113.49,
+      "throughput_mbps": 6.88,
+      "prediction": "负载拥塞",
+      "confidence": 0.98,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1748,
+      "evidence": [
+        "PRB=95.30% > 85%",
+        "掉线率=3.97% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:30:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -101.95,
+      "sinr_db": 14.05,
+      "prb_pct": 97.79,
+      "drop_pct": 0.52,
+      "latency_ms": 99.08,
+      "throughput_mbps": 9.08,
+      "prediction": "负载拥塞",
+      "confidence": 0.9652,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1713,
+      "evidence": [
+        "PRB=97.79% > 85%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:35:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -80.38,
+      "sinr_db": 11.21,
+      "prb_pct": 95.2,
+      "drop_pct": 2.61,
+      "latency_ms": 105.99,
+      "throughput_mbps": 11.17,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1903,
+      "evidence": [
+        "PRB=95.20% > 85%",
+        "掉线率=2.61% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:40:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -83.25,
+      "sinr_db": 6.26,
+      "prb_pct": 92.98,
+      "drop_pct": 4.74,
+      "latency_ms": 105.92,
+      "throughput_mbps": 9.66,
+      "prediction": "负载拥塞",
+      "confidence": 0.61,
+      "diagnosis": "负载拥塞",
+      "needs_review": true,
+      "is_anomaly": true,
+      "anomaly_score": -0.1901,
+      "evidence": [
+        "PRB=92.98% > 85%",
+        "掉线率=4.74% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:45:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -76.31,
+      "sinr_db": 14.49,
+      "prb_pct": 96.23,
+      "drop_pct": 3.81,
+      "latency_ms": 88.74,
+      "throughput_mbps": 9.91,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1799,
+      "evidence": [
+        "PRB=96.23% > 85%",
+        "掉线率=3.81% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:50:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -83.79,
+      "sinr_db": 12.42,
+      "prb_pct": 94.95,
+      "drop_pct": 0.9,
+      "latency_ms": 112.33,
+      "throughput_mbps": 8.95,
+      "prediction": "负载拥塞",
+      "confidence": 0.9985,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1409,
+      "evidence": [
+        "PRB=94.95% > 85%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:55:00",
+      "cell_id": "CELL-4",
+      "rsrp_dbm": -74.34,
+      "sinr_db": 14.86,
+      "prb_pct": 91.66,
+      "drop_pct": 3.8,
+      "latency_ms": 76.97,
+      "throughput_mbps": 11.17,
+      "prediction": "负载拥塞",
+      "confidence": 1.0,
+      "diagnosis": "负载拥塞",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1828,
+      "evidence": [
+        "PRB=91.66% > 85%",
+        "掉线率=3.80% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K03",
+          "cause": "负载拥塞",
+          "explanation": "PRB占用偏高且业务体验下降，可能存在无线资源拥塞。",
+          "actions": [
+            "核对忙时用户数、业务构成与流量趋势。",
+            "评估负载均衡、载波扩容或调度参数，先保留回退方案。"
+          ],
+          "verification": "比较同时间段PRB、时延和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:00:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -69.26,
+      "sinr_db": 12.92,
+      "prb_pct": 23.02,
+      "drop_pct": 1.99,
+      "latency_ms": 241.24,
+      "throughput_mbps": 23.22,
+      "prediction": "传输异常",
+      "confidence": 1.0,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1631,
+      "evidence": [
+        "时延=241.24ms > 100ms，覆盖/干扰/负载阈值未触发"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:05:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -82.18,
+      "sinr_db": 15.82,
+      "prb_pct": 54.35,
+      "drop_pct": 3.89,
+      "latency_ms": 229.25,
+      "throughput_mbps": 27.08,
+      "prediction": "传输异常",
+      "confidence": 0.9956,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1191,
+      "evidence": [
+        "时延=229.25ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=3.89% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:10:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -84.28,
+      "sinr_db": 19.31,
+      "prb_pct": 24.19,
+      "drop_pct": 3.87,
+      "latency_ms": 236.99,
+      "throughput_mbps": 15.15,
+      "prediction": "传输异常",
+      "confidence": 1.0,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1119,
+      "evidence": [
+        "时延=236.99ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=3.87% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:15:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -91.28,
+      "sinr_db": 14.64,
+      "prb_pct": 51.84,
+      "drop_pct": 1.83,
+      "latency_ms": 199.77,
+      "throughput_mbps": 29.01,
+      "prediction": "传输异常",
+      "confidence": 0.9981,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1233,
+      "evidence": [
+        "时延=199.77ms > 100ms，覆盖/干扰/负载阈值未触发"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:20:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -85.61,
+      "sinr_db": 16.35,
+      "prb_pct": 42.93,
+      "drop_pct": 2.5,
+      "latency_ms": 277.8,
+      "throughput_mbps": 17.45,
+      "prediction": "传输异常",
+      "confidence": 0.9993,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1183,
+      "evidence": [
+        "时延=277.80ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=2.50% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:25:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -82.76,
+      "sinr_db": 17.65,
+      "prb_pct": 47.97,
+      "drop_pct": 1.43,
+      "latency_ms": 258.25,
+      "throughput_mbps": 15.96,
+      "prediction": "传输异常",
+      "confidence": 0.997,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1241,
+      "evidence": [
+        "时延=258.25ms > 100ms，覆盖/干扰/负载阈值未触发"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:30:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -99.47,
+      "sinr_db": 16.76,
+      "prb_pct": 29.5,
+      "drop_pct": 1.85,
+      "latency_ms": 272.55,
+      "throughput_mbps": 15.73,
+      "prediction": "传输异常",
+      "confidence": 1.0,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1317,
+      "evidence": [
+        "时延=272.55ms > 100ms，覆盖/干扰/负载阈值未触发"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:35:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -87.16,
+      "sinr_db": 17.18,
+      "prb_pct": 63.91,
+      "drop_pct": 4.06,
+      "latency_ms": 235.1,
+      "throughput_mbps": 9.92,
+      "prediction": "传输异常",
+      "confidence": 1.0,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1266,
+      "evidence": [
+        "时延=235.10ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=4.06% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:40:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -90.28,
+      "sinr_db": 18.28,
+      "prb_pct": 53.17,
+      "drop_pct": 1.47,
+      "latency_ms": 221.15,
+      "throughput_mbps": 26.84,
+      "prediction": "传输异常",
+      "confidence": 1.0,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1021,
+      "evidence": [
+        "时延=221.15ms > 100ms，覆盖/干扰/负载阈值未触发"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:45:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -73.56,
+      "sinr_db": 20.63,
+      "prb_pct": 40.91,
+      "drop_pct": 3.31,
+      "latency_ms": 131.43,
+      "throughput_mbps": 9.21,
+      "prediction": "传输异常",
+      "confidence": 0.96,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1347,
+      "evidence": [
+        "时延=131.43ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=3.31% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:50:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -83.95,
+      "sinr_db": 23.45,
+      "prb_pct": 51.07,
+      "drop_pct": 2.21,
+      "latency_ms": 170.62,
+      "throughput_mbps": 21.1,
+      "prediction": "传输异常",
+      "confidence": 1.0,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1115,
+      "evidence": [
+        "时延=170.62ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=2.21% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:55:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -78.21,
+      "sinr_db": 20.42,
+      "prb_pct": 66.63,
+      "drop_pct": 0.0,
+      "latency_ms": 192.38,
+      "throughput_mbps": 16.03,
+      "prediction": "传输异常",
+      "confidence": 0.99,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1054,
+      "evidence": [
+        "时延=192.38ms > 100ms，覆盖/干扰/负载阈值未触发"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:00:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -83.78,
+      "sinr_db": 20.73,
+      "prb_pct": 23.5,
+      "drop_pct": 2.24,
+      "latency_ms": 210.22,
+      "throughput_mbps": 7.22,
+      "prediction": "传输异常",
+      "confidence": 1.0,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1247,
+      "evidence": [
+        "时延=210.22ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=2.24% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:05:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -72.61,
+      "sinr_db": 19.2,
+      "prb_pct": 31.29,
+      "drop_pct": 2.25,
+      "latency_ms": 175.81,
+      "throughput_mbps": 20.15,
+      "prediction": "传输异常",
+      "confidence": 1.0,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1236,
+      "evidence": [
+        "时延=175.81ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=2.25% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:10:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -82.95,
+      "sinr_db": 16.09,
+      "prb_pct": 18.14,
+      "drop_pct": 0.02,
+      "latency_ms": 115.91,
+      "throughput_mbps": 5.63,
+      "prediction": "传输异常",
+      "confidence": 0.84,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1131,
+      "evidence": [
+        "时延=115.91ms > 100ms，覆盖/干扰/负载阈值未触发"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:15:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -104.5,
+      "sinr_db": 22.52,
+      "prb_pct": 53.67,
+      "drop_pct": 3.28,
+      "latency_ms": 171.07,
+      "throughput_mbps": 19.21,
+      "prediction": "传输异常",
+      "confidence": 0.68,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1504,
+      "evidence": [
+        "时延=171.07ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=3.28% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:20:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -79.29,
+      "sinr_db": 24.67,
+      "prb_pct": 42.78,
+      "drop_pct": 3.49,
+      "latency_ms": 146.1,
+      "throughput_mbps": 26.51,
+      "prediction": "传输异常",
+      "confidence": 1.0,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.118,
+      "evidence": [
+        "时延=146.10ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=3.49% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:25:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -85.24,
+      "sinr_db": 13.55,
+      "prb_pct": 45.33,
+      "drop_pct": 2.1,
+      "latency_ms": 191.16,
+      "throughput_mbps": 20.38,
+      "prediction": "传输异常",
+      "confidence": 1.0,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1294,
+      "evidence": [
+        "时延=191.16ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=2.10% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:30:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -95.98,
+      "sinr_db": 14.82,
+      "prb_pct": 65.09,
+      "drop_pct": 3.48,
+      "latency_ms": 243.81,
+      "throughput_mbps": 25.96,
+      "prediction": "传输异常",
+      "confidence": 0.9944,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1429,
+      "evidence": [
+        "时延=243.81ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=3.48% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:35:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -82.26,
+      "sinr_db": 20.61,
+      "prb_pct": 46.66,
+      "drop_pct": 1.52,
+      "latency_ms": 190.74,
+      "throughput_mbps": 18.48,
+      "prediction": "传输异常",
+      "confidence": 0.997,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1089,
+      "evidence": [
+        "时延=190.74ms > 100ms，覆盖/干扰/负载阈值未触发"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:40:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -95.18,
+      "sinr_db": 14.57,
+      "prb_pct": 49.89,
+      "drop_pct": 2.53,
+      "latency_ms": 179.4,
+      "throughput_mbps": 22.18,
+      "prediction": "传输异常",
+      "confidence": 0.9993,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1356,
+      "evidence": [
+        "时延=179.40ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=2.53% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:45:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -92.22,
+      "sinr_db": 24.15,
+      "prb_pct": 43.24,
+      "drop_pct": 1.88,
+      "latency_ms": 182.13,
+      "throughput_mbps": 17.18,
+      "prediction": "传输异常",
+      "confidence": 1.0,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.111,
+      "evidence": [
+        "时延=182.13ms > 100ms，覆盖/干扰/负载阈值未触发"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:50:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -84.68,
+      "sinr_db": 13.17,
+      "prb_pct": 51.73,
+      "drop_pct": 1.12,
+      "latency_ms": 190.09,
+      "throughput_mbps": 11.29,
+      "prediction": "传输异常",
+      "confidence": 0.991,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1108,
+      "evidence": [
+        "时延=190.09ms > 100ms，覆盖/干扰/负载阈值未触发"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T19:55:00",
+      "cell_id": "CELL-5",
+      "rsrp_dbm": -83.91,
+      "sinr_db": 17.2,
+      "prb_pct": 45.24,
+      "drop_pct": 3.11,
+      "latency_ms": 247.71,
+      "throughput_mbps": 21.98,
+      "prediction": "传输异常",
+      "confidence": 1.0,
+      "diagnosis": "传输异常",
+      "needs_review": false,
+      "is_anomaly": true,
+      "anomaly_score": -0.1161,
+      "evidence": [
+        "时延=247.71ms > 100ms，覆盖/干扰/负载阈值未触发",
+        "掉线率=3.11% > 2%"
+      ],
+      "knowledge": [
+        {
+          "id": "K04",
+          "cause": "传输异常",
+          "explanation": "无线指标较好而时延显著升高，应检查回传与业务服务器。",
+          "actions": [
+            "核查回传丢包、链路利用率和端到端分段时延。",
+            "检查交换机、回传链路及服务器，不直接修改无线发射功率。"
+          ],
+          "verification": "复测分段时延、丢包和吞吐。"
+        }
+      ]
+    }
+  ],
+  "cells": [
+    {
+      "cell_id": "CELL-1",
+      "samples": 24,
+      "abnormal": 0,
+      "diagnoses": {
+        "正常": 24
+      },
+      "means": {
+        "rsrp_dbm": -85.72,
+        "sinr_db": 20.4,
+        "prb_pct": 44.28,
+        "drop_pct": 0.45,
+        "latency_ms": 18.98,
+        "throughput_mbps": 64.49
+      }
+    },
+    {
+      "cell_id": "CELL-2",
+      "samples": 24,
+      "abnormal": 24,
+      "diagnoses": {
+        "多因素异常": 1,
+        "干扰风险": 1,
+        "待核实": 1,
+        "覆盖不足": 21
+      },
+      "means": {
+        "rsrp_dbm": -115.51,
+        "sinr_db": 1.79,
+        "prb_pct": 48.32,
+        "drop_pct": 5.12,
+        "latency_ms": 56.82,
+        "throughput_mbps": 12.29
+      }
+    },
+    {
+      "cell_id": "CELL-3",
+      "samples": 24,
+      "abnormal": 24,
+      "diagnoses": {
+        "多因素异常": 1,
+        "干扰风险": 23
+      },
+      "means": {
+        "rsrp_dbm": -82.63,
+        "sinr_db": -2.22,
+        "prb_pct": 46.72,
+        "drop_pct": 4.1,
+        "latency_ms": 61.26,
+        "throughput_mbps": 13.81
+      }
+    },
+    {
+      "cell_id": "CELL-4",
+      "samples": 24,
+      "abnormal": 24,
+      "diagnoses": {
+        "负载拥塞": 24
+      },
+      "means": {
+        "rsrp_dbm": -87.03,
+        "sinr_db": 15.16,
+        "prb_pct": 93.66,
+        "drop_pct": 3.0,
+        "latency_ms": 98.73,
+        "throughput_mbps": 8.86
+      }
+    },
+    {
+      "cell_id": "CELL-5",
+      "samples": 24,
+      "abnormal": 24,
+      "diagnoses": {
+        "传输异常": 24
+      },
+      "means": {
+        "rsrp_dbm": -85.44,
+        "sinr_db": 18.11,
+        "prb_pct": 44.42,
+        "drop_pct": 2.31,
+        "latency_ms": 204.61,
+        "throughput_mbps": 18.45
+      }
+    }
+  ],
+  "summary": {
+    "samples": 120,
+    "cells": 5,
+    "abnormal": 96,
+    "review": 5
+  },
+  "disclosure": "随机森林及孤立森林使用自建合成数据训练。阈值为项目启发式配置，未经真实运营商数据验证。概率不是经校准的真实故障概率。仅生成排查建议，不自动修改网络。"
+}

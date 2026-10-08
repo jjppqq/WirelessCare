@@ -1,0 +1,37 @@
+{
+  "checks": [
+    {
+      "name": "demo analysis",
+      "pass": true
+    },
+    {
+      "name": "evidence",
+      "pass": true
+    },
+    {
+      "name": "offline disclosure",
+      "pass": true
+    },
+    {
+      "name": "report download",
+      "pass": true
+    },
+    {
+      "name": "JSON download",
+      "pass": true
+    },
+    {
+      "name": "invalid import rejection",
+      "pass": true
+    },
+    {
+      "name": "mobile no overflow",
+      "pass": true
+    },
+    {
+      "name": "no JS exception",
+      "pass": true
+    }
+  ],
+  "errors": []
+}
