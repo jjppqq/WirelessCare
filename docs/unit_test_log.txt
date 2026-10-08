@@ -1,0 +1,27 @@
+test_api_failure (test_engine.Tests.test_api_failure) ... ok
+test_api_payload (test_engine.Tests.test_api_payload) ... ok
+test_bom (test_engine.Tests.test_bom) ... ok
+test_demo (test_engine.Tests.test_demo) ... ok
+test_duplicate (test_engine.Tests.test_duplicate) ... ok
+test_empty (test_engine.Tests.test_empty) ... ok
+test_label_not_used (test_engine.Tests.test_label_not_used) ... ok
+test_missing (test_engine.Tests.test_missing) ... ok
+test_multi (test_engine.Tests.test_multi) ... ok
+test_nan (test_engine.Tests.test_nan) ... ok
+test_offline (test_engine.Tests.test_offline) ... ok
+test_percent_range (test_engine.Tests.test_percent_range) ... ok
+test_report (test_engine.Tests.test_report) ... ok
+test_reproducible (test_engine.Tests.test_reproducible) ... ok
+test_config_environment_override (test_llm.LLMTests.test_config_environment_override) ... ok
+test_empty_sampling (test_llm.LLMTests.test_empty_sampling) ... ok
+test_endpoint_rejects_secrets_or_http (test_llm.LLMTests.test_endpoint_rejects_secrets_or_http) ... ok
+test_invalid_config (test_llm.LLMTests.test_invalid_config) ... ok
+test_malformed_reply (test_llm.LLMTests.test_malformed_reply) ... ok
+test_packaging_excludes_local_secrets (test_llm.LLMTests.test_packaging_excludes_local_secrets) ... ok
+test_request_contract (test_llm.LLMTests.test_request_contract) ... ok
+test_sampling_spans_cells (test_llm.LLMTests.test_sampling_spans_cells) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.670s
+
+OK

@@ -1,0 +1,258 @@
+{
+  "version": "1.0.1",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 56,
+      "sha256": "ce0241e2759284488b0b27d4fa8313f62c1fe488392cbddf58df376fe0b74148"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3938,
+      "sha256": "30cffa9154127fa31a76787d9d6487fed10ce86abf77624441b387d5146bbf9d"
+    },
+    {
+      "path": "backend/__init__.py",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "backend/engine.py",
+      "bytes": 8430,
+      "sha256": "d22706bd3ffdc19a3d53a71729873b6dabd6da3f736ccc321d83030c3e10d3cc"
+    },
+    {
+      "path": "backend/llm.py",
+      "bytes": 4115,
+      "sha256": "3a8020265b947117b6cb5d63ed7f85b7cd4af8a175ea48b2a0f9bdc436429a9b"
+    },
+    {
+      "path": "demo_data/demo_kpi.csv",
+      "bytes": 9119,
+      "sha256": "45c7324f068d6de4f636ac54f29142e684e3aa97b4f662ff5f1215cc7edbeade"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "bytes": 1273,
+      "sha256": "345d961117fcbd4c9687b5c77b8c50a10ab385a08c863a4279d8e043cb393420"
+    },
+    {
+      "path": "docs/SCORING.md",
+      "bytes": 2303,
+      "sha256": "300c1102eee473f87338460fe930f9fddd23bcebbc2def1eaad771994f5b91c0"
+    },
+    {
+      "path": "docs/mobile.png",
+      "bytes": 374520,
+      "sha256": "51b02414b61e8e01a53051019888d0bdf389ffd43a75aaf5bc86a61d44ccc14e"
+    },
+    {
+      "path": "docs/test_results/browser_analysis.json",
+      "bytes": 110993,
+      "sha256": "a6bd77f5a103654f81e47fada9aabf644549b7e669505e3c9f8d9afc8400e599"
+    },
+    {
+      "path": "docs/test_results/browser_checks.json",
+      "bytes": 560,
+      "sha256": "60e518d8801b7588098025e69e320756239f3439d2d1be819bfb07698321196f"
+    },
+    {
+      "path": "docs/test_results/browser_report.md",
+      "bytes": 43728,
+      "sha256": "59626b402b47b6336f30da80d52fb295e29c618c20d508eab90c1b99998de1e6"
+    },
+    {
+      "path": "docs/test_results/example_analysis.json",
+      "bytes": 111079,
+      "sha256": "ff5765bb7e5936d129945efaca6b3566ee085e7b5c26c3638c9a80e06d240880"
+    },
+    {
+      "path": "docs/test_results/holdout_synthetic.csv",
+      "bytes": 108260,
+      "sha256": "af3faa6f728372af371c2c5c8cfb331e28fb3338ec436543307776cf718034d1"
+    },
+    {
+      "path": "docs/test_results/metrics.json",
+      "bytes": 2031,
+      "sha256": "65763d21f2ee639fe57f79567644444875bedd1ba92e08d48790e14c334a431f"
+    },
+    {
+      "path": "docs/unit_test_log.txt",
+      "bytes": 1517,
+      "sha256": "f7b69014d639b1d87fdc5b83cb27c892715f818c19f7bd920dff04979186a4db"
+    },
+    {
+      "path": "docs/workspace.png",
+      "bytes": 429450,
+      "sha256": "3aa6644d36018c1884b94c65082a7d192342c49d5f8390f894f9ff4ec0510565"
+    },
+    {
+      "path": "docs/作品简介.txt",
+      "bytes": 483,
+      "sha256": "390dff3e0b3c926ca1c6d03db17b03ed378d84a930f6406689588b707e686ab7"
+    },
+    {
+      "path": "docs/团队接手与答辩问答.md",
+      "bytes": 1485,
+      "sha256": "defb02a3ee4afbd743084829986e5f0e1ae5444fae59450eca35bf4b5f91fc31"
+    },
+    {
+      "path": "docs/团队试用记录.csv",
+      "bytes": 157,
+      "sha256": "51374f9e07447680239b2dd41695e24694a47492c862be222af5e229e275598d"
+    },
+    {
+      "path": "docs/核心算法说明.md",
+      "bytes": 2922,
+      "sha256": "fcb34b0a338057de6c09fdb84e9a8fb3a1ac72f02b1e5c3d1aca21d371799d2d"
+    },
+    {
+      "path": "docs/测试报告.md",
+      "bytes": 2644,
+      "sha256": "fc91c3160306fdd44dbfed5839c1b1c74efcccb3847fd1d813995f9cc79c1086"
+    },
+    {
+      "path": "docs/第三方资源与AI使用说明.md",
+      "bytes": 1501,
+      "sha256": "6666eb90a3c0b1793953ad36659d1b42ea1508b97b11afff60f332e16c80c8ac"
+    },
+    {
+      "path": "docs/联调与团队试用.md",
+      "bytes": 5818,
+      "sha256": "ab9b538feff88d7abfefeb41ab4e020783736719b31f395c0c74942766468b7f"
+    },
+    {
+      "path": "docs/视频解说与拍摄说明.md",
+      "bytes": 618,
+      "sha256": "ec48274eaf93d5dc0f440e16ec4a3125557f486276165ba86de2f07bf197e108"
+    },
+    {
+      "path": "docs/软件说明文档.md",
+      "bytes": 2507,
+      "sha256": "1f3430749bfef8cd5df25e4c17c93989e59241ce5e3ed655fa7e1724e5f094fa"
+    },
+    {
+      "path": "frontend/app.js",
+      "bytes": 5813,
+      "sha256": "7dddbba7bebc560b04ead9e4c9cc5cd8743031f09112c9b4c7d97b11a7c0565f"
+    },
+    {
+      "path": "frontend/index.html",
+      "bytes": 3898,
+      "sha256": "4bef8f7820d9a01830e8750f5a35fb5ffc527ccf3e91e67b6d4bad1c07182b67"
+    },
+    {
+      "path": "frontend/style.css",
+      "bytes": 4155,
+      "sha256": "bf349414b036db7269597fda65e4e7e6f8ce50572a201a9d24479a8ad71c47a7"
+    },
+    {
+      "path": "llm_config.example.json",
+      "bytes": 246,
+      "sha256": "a74f3c0fdae1147df1e0d6f698642c2aacdb2355ac9fbf989d99fa8aa126769c"
+    },
+    {
+      "path": "release/作品方案草稿.pdf",
+      "bytes": 119316,
+      "sha256": "8d457301bbdd095fd230942008fcd0ceafc61388d91d338177ac497d6da9902f"
+    },
+    {
+      "path": "release/功能演示草稿.mp4",
+      "bytes": 3145041,
+      "sha256": "929b6fd653d75f5d6131a7f54b2a37981df7d486b16e588521a36c6460648d95"
+    },
+    {
+      "path": "release/文件索引.md",
+      "bytes": 846,
+      "sha256": "f317ce000d18c90a855f15976f86e8e5c264e74b8de84fa77e71f35ea6c9cb97"
+    },
+    {
+      "path": "release/核心算法说明草稿.pdf",
+      "bytes": 74867,
+      "sha256": "c64b1bf2a2089d7ef50c9003fd46206dbe3889be038a0ff1a97cbd97b5719fa5"
+    },
+    {
+      "path": "release/测试报告.pdf",
+      "bytes": 69923,
+      "sha256": "fd1000a8671f2636f2368d55ef6cc52936b3fbf2d6e2793f0b3fac5753c2ad16"
+    },
+    {
+      "path": "release/答辩材料草稿.pdf",
+      "bytes": 98981,
+      "sha256": "3a90969ef7c90e44a3225576d8dab44c19a6db7b9190bb7bc204cf2ee494df1c"
+    },
+    {
+      "path": "release/答辩材料草稿.pptx",
+      "bytes": 45827,
+      "sha256": "1de319e1d51be148373bda6488294f797e8ab86248f8d42038491ca1be148e1e"
+    },
+    {
+      "path": "release/资源与AI使用说明.pdf",
+      "bytes": 53173,
+      "sha256": "4f9f06f24dc6093dbdf24fb097c13d09a9c24d16c65bfafdc7ec29594f5c3e3c"
+    },
+    {
+      "path": "release/软件说明草稿.pdf",
+      "bytes": 74617,
+      "sha256": "62e975f28e82ec7b772925f3333df14ea91ccc05a9e2246bbf67b338898ec89f"
+    },
+    {
+      "path": "requirements.lock.txt",
+      "bytes": 82,
+      "sha256": "f2872d684d500097760266c5eb6598e21c65178b1afe15bf3443d4bc31f37c03"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 36,
+      "sha256": "ab3898955bed3704d8b21f85ece7a45b59d29bc5f6316e42fcdb65e4846dd345"
+    },
+    {
+      "path": "run.py",
+      "bytes": 3546,
+      "sha256": "32facf12028bdbed942af24123775bbc7121892823d450bcf04f6bb01d0f6a51"
+    },
+    {
+      "path": "scripts/check_llm.py",
+      "bytes": 2374,
+      "sha256": "b5839ecd6f7f4cd49fd62a0c54ff11f0af88280ea33ef7844da40721e954fcc0"
+    },
+    {
+      "path": "scripts/configure_llm.py",
+      "bytes": 1224,
+      "sha256": "bfb95df3c808159afa554917e1a7128ab43c4103d3de3ae62da5d4f9156ea4c4"
+    },
+    {
+      "path": "scripts/evaluate.py",
+      "bytes": 1911,
+      "sha256": "d2ff2f5c9bebb203da1c9164013ca78a8f73a1bdeb6bae0c5009fbc3b59d76cf"
+    },
+    {
+      "path": "scripts/package_submission.py",
+      "bytes": 1156,
+      "sha256": "fb2738d3d075327e62f0c9ba85bab115c8f43374822eee402edb3211d4596ece"
+    },
+    {
+      "path": "scripts/start_unix.sh",
+      "bytes": 99,
+      "sha256": "15450bb9871ec15c61ae6ca9f7c754ae560c5514bd7a08bd3a0a8b0a39f892ba"
+    },
+    {
+      "path": "scripts/start_windows.bat",
+      "bytes": 145,
+      "sha256": "cee6048326ca25de17cd414842a5ed4b708ebfdfb12cccd10db33e16a8229d71"
+    },
+    {
+      "path": "tests/test_engine.py",
+      "bytes": 3123,
+      "sha256": "2ca67f7c6b09ac54946dbd47dc40a62cf8dbb14c96864dc1afec3055bbffcf5e"
+    },
+    {
+      "path": "tests/test_llm.py",
+      "bytes": 4009,
+      "sha256": "969b844ece08d1813f6a5c6801ad81eacfc5c10a036e7d2055424445cf80d51d"
+    }
+  ],
+  "status": "团队复核稿，真实API服务与实际团队试用待完成，官方模板待核对",
+  "unit_tests": 22,
+  "demo_seconds": 196.36
+}
