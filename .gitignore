@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.env
+outputs/
+*.log
+llm_config.json

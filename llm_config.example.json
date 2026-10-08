@@ -1,0 +1,6 @@
+{
+  "note": "运行scripts/configure_llm.py生成本地llm_config.json；本示例不自动加载，环境变量优先。",
+  "api_base": "https://your-provider.example/v1",
+  "api_key": "set-locally-never-commit",
+  "model": "your-model-name"
+}
