@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "files": [
     {
       "path": ".gitignore",
@@ -8,8 +8,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3938,
-      "sha256": "30cffa9154127fa31a76787d9d6487fed10ce86abf77624441b387d5146bbf9d"
+      "bytes": 4474,
+      "sha256": "040c177837de89d3324b721d8c8d1b3be50051e58eec2b789e00a6605500feb4"
     },
     {
       "path": "backend/__init__.py",
@@ -87,6 +87,16 @@
       "sha256": "3aa6644d36018c1884b94c65082a7d192342c49d5f8390f894f9ff4ec0510565"
     },
     {
+      "path": "docs/交付导航.md",
+      "bytes": 1976,
+      "sha256": "f1e927ad21db422cc4913502ae61f4f00806d93923de223b963e52a9ef51b314"
+    },
+    {
+      "path": "docs/代码导航.md",
+      "bytes": 2774,
+      "sha256": "469b5d2b5b7ceafd36c496dadc8df334bd1c18238bc810b3b1f7adf93d3a3dbd"
+    },
+    {
       "path": "docs/作品简介.txt",
       "bytes": 483,
       "sha256": "390dff3e0b3c926ca1c6d03db17b03ed378d84a930f6406689588b707e686ab7"
@@ -100,6 +110,11 @@
       "path": "docs/团队试用记录.csv",
       "bytes": 157,
       "sha256": "51374f9e07447680239b2dd41695e24694a47492c862be222af5e229e275598d"
+    },
+    {
+      "path": "docs/报名填写信息.txt",
+      "bytes": 876,
+      "sha256": "c2947bfd2707e8a12d59a3f18011c825a9fbd9485226d49a40619fe0d2770330"
     },
     {
       "path": "docs/核心算法说明.md",
@@ -252,7 +267,7 @@
       "sha256": "969b844ece08d1813f6a5c6801ad81eacfc5c10a036e7d2055424445cf80d51d"
     }
   ],
-  "status": "团队复核稿，真实API服务与实际团队试用待完成，官方模板待核对",
+  "status": "团队复核稿，真实API与团队试用待完成，模板及编号待补齐",
   "unit_tests": 22,
   "demo_seconds": 196.36
 }
